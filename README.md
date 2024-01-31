@@ -1,7 +1,7 @@
 
 ## Dacon 전력사용량 예측 AI 경진대회
 
-- 대회 개요 https://dacon.io/competitions/official/236127/overview/description
+- 대회 개요 (2023.07.17 ~ 2023.08.28) https://dacon.io/competitions/official/236127/overview/description
 - 2023 8월 전력사용량 예측 AI 경진대회 (private 5.7%이내 - 70등/1233팀)
 
 ## Summary
