@@ -7,7 +7,7 @@
 - 성과 : private 5.7%이내 - 70등/1233팀
 
 ## Summary
-- **DataSelection** : 건물별(총 100개 건물) 모델링 
+- **Data Selection** : 건물별(총 100개 건물) 모델링 
 - **Feature Engineering** : 기온 및 습도 파생 변수 (discomfort, CDH), 공휴일 추가, 변수들을 이동평균값 EMA으로 대체
 - **Visualization** : 과거 및 예측 전력량 시각화하여 공휴일 확인 및 피쳐 추가/드롭에 반영
 - **Feature Selection** : 건물별로 Feature importance, Shap 지수 기준 하위 피쳐 드롭
