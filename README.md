@@ -8,7 +8,7 @@
 
 ## Summary
 - **Data Selection** : 건물 개별(총 100개 건물) 예측 
-- **Feature Engineering** : 기온 및 습도 파생 변수 추가 (discomfort, CDH 등), 공휴일 추가, 시계열 변수들을 이동평균값 EMA으로 조정 후 예측
+- **Feature Engineering** : 기온 및 습도 파생 변수 추가 (discomfort, CDH 등), 공휴일 추가, 시계열 변수들을 이동평균값 EMA으로 조정 후 예측 (target 제외)
 - **Visualization** : 과거 및 예측 전력량 시각화하여 공휴일 확인 및 피쳐 추가/드롭에 반영
 - **Feature Selection** : 건물별로 Feature importance, Shap 지수 기준 하위 피쳐 드롭
 - **Model** : LGBM 모델 사용 - 팀원별 LGBM 예측치 산술평균 앙상블
