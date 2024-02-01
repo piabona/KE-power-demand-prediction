@@ -13,11 +13,6 @@
 - **Feature Selection** : 건물별로 Feature importance, Shap 지수 기준 하위 피쳐 드롭
 - **Model** : LGBM 모델 사용 - 팀원별 LGBM 예측치 산술평균 앙상블
 
-## Review 
-- 속도 문제로 다양한 모델 활용하지 못함
-- 예측값 (전력량) 자체에 대한 이동평균 및 log화 시도 가능성
-- 건물 유형별 (백화점, 데이터센터 등) 전력량 mean, std, max 등 활용 가능성
-
 ## Environment
 - OS: Ubuntu 18.04.4 LTS (GNU/Linux 4.15.0-162-generic x86_64)
 - Environment: Anaconda 4.10.3
