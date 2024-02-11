@@ -4,7 +4,7 @@
 - 대회 개요 (2023.07.17 ~ 2023.08.28) https://dacon.io/competitions/official/236127/overview/description
 - 시계열 회귀 예측 (SMAPE)
 - 건물 정보와 시공간 정보를 활용하여 특정 시점의 전력 사용량을 예측하는 AI 모델 개발 
-- 성과 : private 5.7%이내 - 70등/1233팀
+- 성과 : 팀(3인) private 5.7%이내 - 70등/1233팀
 
 ## Summary
 - **Data Selection** : 건물 개별(총 100개 건물) 예측 
